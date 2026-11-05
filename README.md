@@ -100,6 +100,10 @@ volumes:
 
 [其他部署方式、端口修改与升级备份 →](docs/部署与维护.md)
 
+## 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/M3U%20Studio/)
+
 ## 开始使用
 
 1. 创建列表，导入 M3U / TXT 文件、粘贴内容或提供文件链接；也可以手动添加频道。
